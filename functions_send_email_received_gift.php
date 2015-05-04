@@ -3,7 +3,7 @@
  * Plugin Name: Send Email Received Gift
  * Plugin URI: https://github.com/eltondev/Send-Email-Received-Gift
  * Description: Add custom fields at checkout , sending via email the request to another email in the presented case.
- * Author: EltonDEV
+ * Author: EltonDEV / Marco Frasson
  * Author URI: http://eltondev.com.br
  * Version: 0.1
  *
